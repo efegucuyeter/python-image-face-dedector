@@ -1,4 +1,4 @@
-# python-image-face-dedector
+# python-image-face-finder
 This application is a face recognition application developed using the Python programming language. It is created using popular libraries such as OpenCV and Tkinter.This application allows a user to select an image from their computer. It then detects faces on the selected image, draws a rectangle around each detected face, adds the label "human" to each face, and displays this processed image in a window.
 
 ******************************************************************************************************************************************************************************************************************************
